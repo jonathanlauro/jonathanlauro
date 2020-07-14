@@ -1,5 +1,5 @@
 # Fala pessoal 👋
-Me chamo Jonathan Lauro. Sou de brasília, estutande de Análise e Desenvolvimento de Sistema.Passo a maior parte do meu tempo 
+Me chamo Jonathan Lauro. Sou de Brasília, estudante de Análise e Desenvolvimento de Sistemas. Passo a maior parte do meu tempo 
 codando e pesquisando novas tecnologias.
 
 ### Tecnologias :computer:.
@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 
 ### Redes socias.
-- Tenho um canal no youtube chamado [High School Dev](https://www.youtube.com/channel/UCJRXmf_Df6oifqyyLoQywsg?view_as=subscriber) 
-e espero ajudar as pessoas a prender a programar;
+- Tenho um canal no YouTube chamado [High School Dev](https://www.youtube.com/channel/UCJRXmf_Df6oifqyyLoQywsg?view_as=subscriber) 
+e espero ajudar as pessoas a aprender a programar;
 - O instagram da página [@highschooldev](https://www.instagram.com/highschooldev/);
 - Meu [linkedin](https://www.linkedin.com/in/jonathan-lauro-6174a516a/);
 
