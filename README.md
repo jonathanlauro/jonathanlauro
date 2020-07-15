@@ -6,7 +6,7 @@ codando e pesquisando novas tecnologias.
 
 - NodeJs
 - Angular 8
-- angular material
+- Angular material
 - Java
 - MySql
 - MongoDb
