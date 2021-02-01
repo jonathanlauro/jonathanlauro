@@ -1,4 +1,4 @@
-# Fala pessoal 👋
+# Fala pessoal 👋 :rocket:
 Me chamo Jonathan Lauro. Sou de Brasília, estudante de Análise e Desenvolvimento de Sistemas. Passo a maior parte do meu tempo 
 codando e pesquisando novas tecnologias.
 
