@@ -1,13 +1,16 @@
 # Fala pessoal 👋 :rocket:
 Me chamo Jonathan Lauro. Sou de Brasília, estudante de Análise e Desenvolvimento de Sistemas. Passo a maior parte do meu tempo 
 codando e pesquisando novas tecnologias.
-
-### Tecnologias :computer:.
+ 
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<h2>Tecnologias :computer:</h2>
 
 - NodeJs
 - Angular 8
 - Angular material
 - Java
+- PostgreSQL
+- Docker
 - MySql
 - MongoDb
 
