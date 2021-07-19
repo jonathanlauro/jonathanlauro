@@ -5,10 +5,10 @@ codando e pesquisando novas tecnologias.
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <h2>Tecnologias :computer:</h2>
 
-- NodeJs
+- <img height="30" src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white">
 - <img height="30" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 - <img height="30" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-- <img height="30" src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white">
+- <img height="30" src="https://www.opus-software.com.br/wp-content/uploads/2018/09/nodejs-1000x423.jpg">
 - <img height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 - <img height="30" src="https://1757140519.rsc.cdn77.org/blog/wp-content/uploads/sites/6/2020/08/27_docker-vector-logo.png">
 - <img height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
