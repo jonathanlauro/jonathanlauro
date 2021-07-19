@@ -6,13 +6,12 @@ codando e pesquisando novas tecnologias.
 <h2>Tecnologias :computer:</h2>
 
 - NodeJs
-- Angular 8
-- Angular material
-- Java
-- PostgreSQL
-- Docker
-- MySql
-- MongoDb
+- <img height="30" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+- <img height="30" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+- <img height="30" src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white">
+- <img height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+- <img height="30" src="https://1757140519.rsc.cdn77.org/blog/wp-content/uploads/sites/6/2020/08/27_docker-vector-logo.png">
+- <img height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
 Sou apaixonado pelo mundo das tecnologias. :rocket: :robot:
 Espero que meus códigos possam ajudar as pessoas.
@@ -34,9 +33,11 @@ Here are some ideas to get you started:
 
 
 ### Redes socias.
-- Tenho um canal no YouTube chamado [High School Dev](https://www.youtube.com/channel/UCJRXmf_Df6oifqyyLoQywsg?view_as=subscriber) 
-e espero ajudar as pessoas a aprender a programar;
+- Tenho um canal no YouTube chamado High School Dev e espero ajudar as pessoas a aprender a programar;
 - O instagram da página [@highschooldev](https://www.instagram.com/highschooldev/);
-- Meu [linkedin](https://www.linkedin.com/in/jonathan-lauro-6174a516a/);
+<br>
+
+<a target="_blank" href="https://www.youtube.com/channel/UCJRXmf_Df6oifqyyLoQywsg?view_as=subscriber"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></img></a> 
+<a target="_blank" href="https://www.linkedin.com/in/jonathan-lauro-6174a516a/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 
  
