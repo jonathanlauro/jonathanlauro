@@ -1,5 +1,5 @@
 # Fala pessoal 👋 :rocket:
-Me chamo Jonathan Lauro. Sou de Brasília, estudante de Análise e Desenvolvimento de Sistemas. Passo a maior parte do meu tempo 
+Me chamo Jonathan Lauro. Sou de Brasília, desenvolvedor Fullstack no SICOOB. Passo a maior parte do meu tempo 
 codando e pesquisando novas tecnologias.
  
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
