@@ -1,6 +1,8 @@
 # Fala pessoal 👋 :rocket:
-Me chamo Jonathan Lauro. Sou de Brasília, desenvolvedor Fullstack no SICOOB. Passo a maior parte do meu tempo 
-codando e pesquisando novas tecnologias.
+Sou Desenvolvedor Full Stack, com forte foco em backend e experiência no desenvolvimento de sistemas escaláveis, resilientes e orientados a eventos.
+Atuo com Java 8+, Spring Boot, Java EE, JBoss e Node.js (NestJS), no desenvolvimento de APIs e microsserviços. Possuo experiência com mensageria e streaming, utilizando Kafka, IBM MQ e RabbitMQ.
+No frontend, trabalho com Angular (11 a 17), desenvolvendo aplicações modernas, performáticas e bem estruturadas.
+Tenho sólida base em Design Patterns, arquitetura MVC, arquitetura em camadas e clean code, com participação ativa em decisões técnicas e evolução de sistemas. Valorizo boa comunicação, colaboração entre times, senso de responsabilidade e aprendizado contínuo, atuando em ambientes ágeis com Scrum e Kanban.
  
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <h2>Tecnologias :computer:</h2>
@@ -31,13 +33,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-### Redes socias.
-- Tenho um canal no YouTube chamado High School Dev e espero ajudar as pessoas a aprender a programar;
-- O instagram da página [@highschooldev](https://www.instagram.com/highschooldev/);
-<br>
-
-<a target="_blank" href="https://www.youtube.com/channel/UCJRXmf_Df6oifqyyLoQywsg?view_as=subscriber"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></img></a> 
+ 
 <a target="_blank" href="https://www.linkedin.com/in/jonathan-lauro-6174a516a/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 
  
